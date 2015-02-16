@@ -1,2 +1,2 @@
 # CS452-Spring2015-Lab2
-CS452/EE465 Spring 2015 Lab1
+CS452/EE465 Spring 2015 Lab2
