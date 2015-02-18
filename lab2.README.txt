@@ -1,0 +1,12 @@
+John Whiddon
+0284759
+2/16/2015
+
+Description:
+
+Uses a matrix of vec3 coordinates to create a 2D ~diamond plane on z=5.
+Accepts input from the keyboard keys WASD and 1 by use of keycodes.
+    Modifies the x or y variable which is a uniform (global) variable which adds/subtracts 
+        from gl_position in the html file.
+    This has an if/else filter on it to stop the .12 pixel shape from passing the boundaries 
+        of the 2x2 pixel viewing area.
